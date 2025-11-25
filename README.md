@@ -1,4 +1,4 @@
-# 🫣 About Me:
+# 😁 About Me:
 Hey there! I'm Felipe — a self-taught developer passionate about building apps, experimenting with new tech, and turning ideas into reality.  <br><br>💻 I love coding challenges and learning by doing.  <br>🚀 Always curious about startups, digital products, and how tech can solve real problems.  <br>📱 Recently built my own app and published it — proving that persistence beats perfection.  <br>🌍 Sharing knowledge and connecting with people through YouTube, Instagram, and beyond.  <br><br>Fun fact: I believe every project is a chance to grow, even if it starts small.<br>
 
 
